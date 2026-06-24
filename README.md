@@ -53,4 +53,4 @@ An interactive Power BI dashboard designed to monitor business performance acros
 
 GitHub: https://github.com/Vishwajit-coding
 
-LinkedIn: linkedin.com/in/vishwajit-waghdhare
+LinkedIn: [linkedin.com/in/vishwajit-waghdhare](https://www.linkedin.com/in/vishwajit-waghdhare-1579851a3/)
