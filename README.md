@@ -36,6 +36,10 @@ An interactive Power BI dashboard designed to monitor business performance acros
 * DAX
 * Power Query
 
+🔗 **Live Dashboard**
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI5MWVjMTMtYjEzNi00NjQ2LWI1NmMtMzgwOGZkMDAwNWM0IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
+
 📂 Project Folder: Business-Dashboard
 
 ## Upcoming Projects
@@ -49,4 +53,4 @@ An interactive Power BI dashboard designed to monitor business performance acros
 
 GitHub: https://github.com/Vishwajit-coding
 
-LinkedIn: linkedin.com/in/vishwajit-waghdhare-1579851a3
+LinkedIn: linkedin.com/in/vishwajit-waghdhare
