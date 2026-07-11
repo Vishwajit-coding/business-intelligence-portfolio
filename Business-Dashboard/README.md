@@ -1,5 +1,9 @@
 # 📊 Business Performance Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![DAX](https://img.shields.io/badge/DAX-Power%20BI-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-success)
+
 A Power BI dashboard developed to analyze business performance through interactive visualizations and key performance indicators (KPIs). The dashboard provides actionable insights into sales, profitability, and overall business performance to support data-driven decision-making.
 
 ---
@@ -10,16 +14,20 @@ This project demonstrates the use of Microsoft Power BI to transform raw busines
 
 ---
 
+## Project Objective
+
+Develop an interactive Power BI dashboard to provide business stakeholders with a centralized view of sales performance, profitability, and key business metrics for data-driven decision-making.
+
+---
+
 ## Key Features
 
-- Interactive Power BI Dashboard
-- Executive Business Overview
-- Sales Performance Analysis
-- Profitability Analysis
-- KPI Monitoring
-- Dynamic Filters and Slicers
-- Trend Analysis
-- Drill-Down Reporting
+- Interactive dashboards with drill-down capabilities
+- KPI tracking and business performance monitoring
+- Sales trend and profitability analysis
+- Dynamic filtering using slicers
+- Executive summary dashboard
+- Interactive data exploration
 
 ---
 
@@ -36,30 +44,37 @@ Evaluates profit margins, high-performing products, and business segments to sup
 
 ---
 
+## Dataset
+
+The dashboard is built using a sample business dataset containing sales transactions, product information, customer details, regional performance, and profitability metrics.
+
+---
+
 ## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Data Visualization
+- Interactive Data Visualization
 
 ---
 
 ## Skills Demonstrated
 
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- KPI Design
+- Microsoft Power BI
+- DAX
+- Power Query
 - Data Modeling
+- Dashboard Development
+- KPI Reporting
+- Business Intelligence
+- Data Visualization
 - Business Analytics
-- Performance Reporting
-- Decision Support Analytics
-
+  
 ---
 
-## Business Value
+## Key Insights
 
 This dashboard enables organizations to:
 
@@ -77,14 +92,25 @@ This dashboard enables organizations to:
 Business-Dashboard/
 │
 ├── Business-Dashboard.pbix
-└── README.md
+├── README.md
+├── dashboard-homepage.jpg
+├── sales-dashboard.jpg
+└── profitability-dashboard.jpg
 ```
-
----
 
 ## Dashboard Preview
 
-> Dashboard screenshots will be added soon.
+### Dashboard Homepage
+
+![Dashboard Homepage](dashboard-homepage.jpg)
+
+### Sales Dashboard
+
+![Sales Dashboard](sales-dashboard.jpg)
+
+### Profitability Dashboard
+
+![Profitability Dashboard](profitability-dashboard.jpg)
 
 ---
 
@@ -92,4 +118,4 @@ Business-Dashboard/
 
 **Vishwajit Waghdhare**
 
-Aspiring Data Business Analyst | Power BI | SQL | Business Intelligence
+Data Business Analyst | Power BI | SQL | Business Intelligence | Data Analytics
