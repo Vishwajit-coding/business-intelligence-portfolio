@@ -116,7 +116,6 @@ Provides patient-related analytical insights.
 Hospital-Patient-Appointment-Monitoring-Dashboard.pbix
 README.md
 Dashboard Screenshot(s)
-Dataset (if shareable)
 ```
 
 ---
@@ -138,17 +137,14 @@ Dataset (if shareable)
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of each dashboard page here.
+![Executive Overview](Executive-Overview.jpg)
 
-Example:
+![Doctor Performance Analysis](Doctor-Performance-Analysis.jpg)
 
-```
-images/
-├── Executive Dashboard.png
-├── Appointment Analysis.png
-├── Department Performance.png
-└── Patient Insights.png
-```
+![Patient Traffic & Time-Based Trends](Patient-Traffic-Trend.jpg)
+
+![Department Performance Analysis](Department-Performance-Analysis.jpg)
+
 
 ---
 
