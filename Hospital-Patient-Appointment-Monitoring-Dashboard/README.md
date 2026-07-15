@@ -154,27 +154,20 @@ Hospital-Patient-Appointment-Monitoring-Dashboard/
 
 ## Dashboard Preview
 
-### Executive Dashboard
-
-![Executive Dashboard](Executive-dashboard.png)
-
----
-
-### Appointment Analysis Dashboard
-
-![Appointment Analysis](Appointment-analysis.png)
+### Executive Overview
+![Executive Overview](Executive-Overview.png)
 
 ---
 
-### Department Performance Dashboard
+### Doctor Performance Analysis
 
-![Department Performance](Department-performance.png)
+![Patient Traffic Trend](Patient-Traffic-Trend.png)
 
 ---
 
-### Patient Insights Dashboard
+### Department Performance Analysis
 
-![Patient Insights](Patient-insights.png)
+![Department Performance Analysis](Department-Performance-Analysis.png)
 
 ---
 
