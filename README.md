@@ -42,6 +42,12 @@ An interactive Power BI dashboard designed to monitor business performance acros
 
 📂 Project Folder: Business-Dashboard
 
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI5MWVjMTMtYjEzNi00NjQ2LWI1NmMtMzgwOGZkMDAwNWM0IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
+
+📂 Project Folder: Hospital-Patient-Appointment-Monitoring-Dashboard
+
+[View Interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMWI5MWVjMTMtYjEzNi00NjQ2LWI1NmMtMzgwOGZkMDAwNWM0IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9](https://app.powerbi.com/view?r=eyJrIjoiNDA5N2IwNDYtNjgwMy00OThiLTk3Y2QtMGUwMzA4MWQyMjM2IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9))
+
 ## Upcoming Projects
 
 * Sales Analytics Dashboard
