@@ -149,7 +149,7 @@ E-Commerce-Order-Delivery-Performance-Dashboard/
 
 ### Customer & Payment Analysis
 
-![Customer & Payment Analysis](Customer-Payment-Analysis.png)
+![Customer & Payment Analysis](Customer-&-Payment-Analysis.png)
 
 ---
 
