@@ -131,25 +131,25 @@ E-Commerce-Order-Delivery-Performance-Dashboard/
 
 ### Executive Overview
 
-![Executive Overview](Executive-Overview.png)
+![Executive-Overview](Executive-Overview.png)
 
 ---
 
 ### Delivery Performance Analysis
 
-![Delivery Performance Analysis](Delivery-Performance-Analysis.png)
+![Delivery-Performance-Analysis](Delivery-Performance-Analysis.png)
 
 ---
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](Product-Performance-Analysis.png)
+![Product-Performance-Analysis](Product-Performance-Analysis.png)
 
 ---
 
 ### Customer & Payment Analysis
 
-![Customer & Payment Analysis](Customer-&-Payment-Analysis.png)
+![Customer-Payment-Analysis](Customer-Payment-Analysis.png)
 
 ---
 
