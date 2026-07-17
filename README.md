@@ -46,6 +46,10 @@ An interactive Power BI dashboard designed to monitor business performance acros
 
 📂 Project Folder: Hospital-Patient-Appointment-Monitoring-Dashboard
 
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmI3M2NhODItOTg2ZS00ZjA5LWFmNjMtODFiMmU0MTJjNzNiIiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
+
+📂 Project Folder: E-Commerce Order Delivery Performance Dashboard
+
 View Interactive Power BI Dashboard
 
 ## Upcoming Projects
