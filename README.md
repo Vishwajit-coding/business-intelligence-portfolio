@@ -40,15 +40,19 @@ An interactive Power BI dashboard designed to monitor business performance acros
 
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI5MWVjMTMtYjEzNi00NjQ2LWI1NmMtMzgwOGZkMDAwNWM0IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
 
-📂 Project Folder: Business-Dashboard
+📂 Project Folder: Business Dashboard
 
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDA5N2IwNDYtNjgwMy00OThiLTk3Y2QtMGUwMzA4MWQyMjM2IiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
 
-📂 Project Folder: Hospital-Patient-Appointment-Monitoring-Dashboard
+📂 Project Folder: Hospital Patient Appointment Monitoring Dashboard
 
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmI3M2NhODItOTg2ZS00ZjA5LWFmNjMtODFiMmU0MTJjNzNiIiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
 
 📂 Project Folder: E-Commerce Order Delivery Performance Dashboard
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTcwMTQzMDktYTA3My00NDNjLWIxY2EtOGE5ZGE3MWU1ODJhIiwidCI6ImIxOWE3NjQwLWE0OWQtNDI1Ny04NWE2LTg0YzNhMTNhNjBlMiJ9)
+
+📂 Project Folder: TeleConnect Analytics Hub
 
 View Interactive Power BI Dashboard
 
