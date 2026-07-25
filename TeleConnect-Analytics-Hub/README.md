@@ -143,7 +143,7 @@ TeleConnect-Analytics-Hub/
 
 ### Executive Overview Dashboard
 
-![Executive Overview Dashboard](Executive-Overview-Dashboard.png)
+![Executive Overview Dashboard](Image/Executive-Overview-Dashboard.png)
 
 ---
 
