@@ -149,25 +149,25 @@ TeleConnect-Analytics-Hub/
 
 ### Customer Retention Dashboard
 
-![Customer Retention Dashboard](Customer-Retention-Dashboard.png)
+![Customer Retention Dashboard](Images/Customer%20Retention%20Dashboard.png)
 
 ---
 
 ### Customer Analysis Dashboard
 
-![Customer Analysis Dashboard](Customer-Analysis-Dashboard.png)
+![Customer Analysis Dashboard](Images/Customer%20Analysis%20Dashboard.png)
 
 ---
 
 ### Revenue Performance Dashboard
 
-![Revenue Performance Dashboard](Revenue-Performance-Dashboard.png)
+![Revenue Performance Dashboard](Images/Revenue%20Performance%20Dashboard.png)
 
 ---
 
 ### Service Quality & Complaint Analysis
 
-![Service Quality & Complaint Analysis](Service-Quality-&-Complaint-Analysis.png)
+![Service Quality & Complaint Analysis](Images/Service%20Quality%20&%20Complaint%20Analysis.png)
 
 ---
 
